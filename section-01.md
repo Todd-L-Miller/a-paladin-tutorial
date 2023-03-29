@@ -10,4 +10,4 @@ The instructor will pause the combat at some point, probably at the top of the r
 
 A second-level paladin has a pool of 10 HP for _Lay on Hands_, so it's not likely that the healer will be necessary, but if she is, have the instructor stop the fight there.
 
-Once the healing is done, the action begins!  Proceed to [Section 2](https://github.com/Todd-L-Miller/a-paladin-tutorial/main/section-02.md).
+Once the healing is done, the action begins!  Proceed to [Section 2](https://github.com/Todd-L-Miller/a-paladin-tutorial/blob/main/section-02.md).
