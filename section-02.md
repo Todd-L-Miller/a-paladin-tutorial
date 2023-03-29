@@ -1,3 +1,8 @@
 ## Section 2
 
-Suddenly, skeletons!
+Suddenly, [skeletons](https://www.dndbeyond.com/monsters/17015-skeleton)!  The goal of this scene is to move the player character from the training field to an environment where it's easier for us to constrain the player's choices.  The old catabombs on the outskirts of town sound like a good place to me.
+
+_A page sprints up to **Instructor Badsmith**.  The page is dressed liked you, but wearing brown leather armor and carrying a short bow, instead.   Instructor Badsmith's first name isn't "sir," you're pretty sure, but everyone seems to pretend that it is.  "Sir!" the page pants.  "**Knight-Commander Harris** summons aid!"  Badsmith holds up his off hand, palm out.   "**Fondulac**," she commands, naming the fastest squire, "go, ring the alarm bell, then tell **Principal Volthall** what you just heard."  Quite properly, Fondulac salutes and begins to recite the order back: "Go, ring the alarm bell, tell Principal --" but Badsmith has already turned back to the page.  Fondulac swallows and departs at his considerable top speed.  Badsmith asks, "Where are we going?" and lowers his hand._
+
+_Last year, your job in an emergency was to go back to the barracks -- or the great hall of the abbey, if the barracks were on fire -- and stay out of the way.  This year, you and your whole class are marching to the catacombs east of town.  You listen intently, along with everyone else, to the page.  Knight-Commander Harris, the second-in-command of your school, had been taking the senior squires on a field march: knights had the responsibility to lead if an officer wasn't available, so squires had to practice leadership._  Ask the player what their favorite class is.  _They'd noticed a single skeleton, destroyed it, and -- you hoped the squire who made the decision wouldn't get in trouble for it -- followed its trail to make sure there weren't any more.  Seems like there were._
+
