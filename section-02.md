@@ -8,3 +8,15 @@ _Last year, your job in an emergency was to go back to the barracks -- or the gr
 
 Instructor Badsmith -- like everyone else -- is unnerved by uncertainty.  If you'd like to introduce attribute checks, now would be a good time for a CON check, as he pushes the marching pace; everybody still arrives in a group, but if the player fails the check, they'll arrive towards the back of the group.  Failure is usually more interesting than success, but ask the player to describe the results either way.
 
+----
+
+_When all the dead laid to rest here have been transformed by time and the power of the living earth into good soil, that soil will be brushed from the stones by a living descendant and taken back up to the light, to renew the soil of the family farm or a memorial garden, or the charitable and beneficent plots owned by the temples that provide for orpahs.  It makes the people of Alandoor and the surrounding villages uneasy to simply burn bodies, although in times of trouble, they will, because a proper burial can only be done so quickly._
+
+(Yeah, I know, _beneficient_ is not a good word for the notional target of this adventure, but I'll fix that sort of thing up later.  Huh!  Garrran says "beneficent" is probably OK. :))
+
+_Of course, you and your classmates and your instructors and the Alandoorians -- all of everybody -- know that a proper burial isn't just digging a hole and hoping some passing necromancer doesn't notice.  That's what the crypts are for: a mighty fortress of stone and life and sacred power.  (I should be clearer here about how many crypts there are...)  Stone to shelter the dead so burrowers and earthquakes do not disturb their rest.  Sacred power, enchantments of form and magic to blind, baffle, and turn away (Could use another 'b' word) those who would abuse the sleepers.  Life -- gardens under the ground, of moss and mushroom and other things whose names you do not yet know, transforming its honored guests into stronger life._  Ask the player if they haven't taken that class yet, or if they just didn't do well in it.
+
+_The old crypt is full; it's workings were locked in stone and its gates sealed and its gardens left untrimmed, to do their work uninterrupted by the descendants._
+
+_You -- and everybody else -- look at the gates of the old crypt.  It has a lot of gates.  To the right, a ramp leads down into the crypt; to the left, a ramp leads up out of the crypt.  You're not sure that anything other than tradition distuingishes the two.  Each ramp is covered by its own set of arches; long, heavy chains run from the keystones to a mighty iron winch.  You had to polish and oil the winch once, and that was enough; if you'd been just a little bit slower getting back to your room, you would've had to clean the chains, as well._  Ask the player what happened.  _Neither winch has turned -- good, the final fail-safe has not been triggered -- but if you recall procude correctly --_
+
