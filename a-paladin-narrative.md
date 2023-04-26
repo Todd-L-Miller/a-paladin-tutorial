@@ -1,7 +1,7 @@
-! Gwis the Grey
+# Gwis the Grey
 
 
-!! Chapter 01
+## Chapter 01
 
 It's a rainy day in -- where will you be training?  Some small town,
 it seems.  We'll say Alandoor -- Alandoor, and although that does make
@@ -79,7 +79,7 @@ of you in making reports!"  You -- and your whole class -- respond in
 between thumping strides and rasping chain mail.  "Sir, yes, sir!"
 
 
-!! Chapter 02
+## Chapter 02
 
 From a distance, the old crypt is just a fenced-off part of the grassy
 common east of town, where someone has spent some time cultivating blue
@@ -312,7 +312,7 @@ like any other fire -- but none more horrible.
 that glowed and tunnels that did not end.
 
 
-!! Chapter 03
+## Chapter 03
 
 The tunnel did, actually -- and of course -- end.  It opened into a bluish,
 or at least blue-lit, room with space for a dozen families to each cluster
@@ -394,11 +394,10 @@ Since nothing attacks you, or anyone else, on the way, you're unsurprised to
 find another empty room at the end of the hallway.  Rather, one devoid of any
 undead.  And, pleasantly, nary a corpse.  The sifting hall -- the hallway
 opens into a two-story room, onto the landing (you think that's the word
-but hardly have time to check) at the top of staircase that goes down in both
-directions.  A balustrade (or maybe just a banister?) provides cover so
+but hardly have time to check) at the top of staircase that goes down to both
+left and right.  A balustrade (or maybe just a banister?) provides cover so
 convenient that your entire squad crouches behind it without orders.  You
-shrug and join them.  The sifting hall is two stories tall along its entire
-length; you have no idea why, but it does make it easy to see all the way
-over the balcony on the far side, probably a hundred feet away.
-
-
+shrug -- without moving your shoulders -- and join them.  The sifting hall
+is two stories tall along its entire length; you have no idea why, but it
+does make it easy to see all the way over to the balcony on the far side,
+probably a hundred feet away.
