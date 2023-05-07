@@ -104,14 +104,23 @@ getting back to your room, you would've had to clean the chains, as
 well.  I'm sure you'll have a good excuse, and I'm just as sure that
 your instructors will care just as much as I do.
 
+[ ] Revisualize this section.  The arches dropping by themselves may not
+produce enough rubble to bar passage, and given the wide description, it
+makes more sense for them to be underground as well.  The winches as
+described aren't fail-safes, because they require someone to pull the
+keystones out.  Since the whole point of an arch is that the keystone can
+support a lot of weight, maybe that part isn't realistic.  (I like the
+idea that the entrance looks like another part of the "park" from a
+distance because it's just a slight hill over the tunnel as it rises.)
+
 You'll remember: when all the dead laid to rest here have been
 transformed by time and the power of the living earth into good soil,
 that soil will be brushed from the stones by a living descendant and
 taken back up to the light, to renew the land of the family farm, or a
 memorial garden, or the charitable and beneficent plots owned by the
 temples that provide for orphans.  It would be safer to just burn the
-bodies, but to do so makes the villagers.. uneasy.  I can see you feel
-the same way; that speaks well of you, I think, although some
+bodies, but to do so makes the villagers.. uneasy.  You feel
+the same way?  That speaks well of you, I think, although some
 city-dwellers may disagree.
 
 Of course, you and your classmates and your instructors and the Alandoorians
@@ -131,11 +140,11 @@ At the bottom of each ramp, where it turns into a tunnel, you can see
 three gates: cold iron, hard wood, and obdurate stone, each cunningly
 crafted to permit inspection of the one beyond.  Further down the
 tunnel, you know, there will be three more gates, in the opposite order,
-marking the boundary between here-and-now and the there-and-when, past
+marking the boundary between here-and-now and there-and-when, past
 and future together.  Each of the gates you can see stands open.
 
 Instructor Badsmith exclaims, "What crimes are these?  The gates open
-and unguarded, the fail-safes unstaffed?"  He marches briskly to the
+and unguarded, the fail-safes [FIXME] unstaffed?"  He marches briskly to the
 closer winch and orders your class into defensive positions.  You end up
 standing close enough to hear Evaroom report: "The problem isn't the
 necromancy, although that's bad enough.  It's that the sacred power is
@@ -146,7 +155,7 @@ Instructor Badsmith grudgingly assigns Walv Anderson to lead the
 vanguard.  As the strongest knight present, the instructor should be the
 first into danger, but as the *only* knight present, he's also the only
 and commanding officer.. and the commander shall not be hazarded
-lightly. Walv is a fine squire, with good eyes and better ears; a choice
+lightly.  Walv is a fine squire, with good eyes and better ears; a choice
 for point that you understand.  Or will understand, young Gwis; quit
 interrupting.  What you're doing bringing up the rear, I don't know;
 it's normally a position of great responsibility, which you will have done
@@ -173,16 +182,16 @@ light -- is flourescing a pale blue.  You don't know what, if anything,
 that means, but it's probably not a good sign.  Yes, you can guess at
 what it means; no, I won't tell you if you're right.
 
-The sound of the footsteps behind you changes suddenly, and halt; an instant
+The sound of the footsteps behind you changes suddenly, and halts; an instant
 later, the gauntleted hand of Alvis Starseeker makes a sign in your peripheral
 vision: _bridge step_.  Ah, of course; everyone should have thought earlier
 that marching in step might be far louder than necessary in a confined and
 echoing space.  You resume backing up.  You pass the gate of power, hammered
 into shape by sorcerors and moonlight.  It hangs loosely on its hinges,
 varicolored sparks trying to span the gap.  You pass the gate of life,
-whose living branches wave slightly in spring breeze that isn't blowing,
+whose living branches wave slightly in a spring breeze that isn't blowing,
 trying to seal the breach.  You pass the gate of stone; the gates are
-undamaged, but they swing freely over post-holes and the scattered debris
+undamaged, but they swing freely over the post-holes and the scattered debris
 of the posts which once restrained them.
 
 You examine the scene as you are able, between periods of looking and periods
@@ -203,7 +212,7 @@ ramp, to the right of the winch, past the second wench, and down the other
 ramp, stopping at the first gate."  Reverend Evaroom giggles at something.
 
 Instructor Badsmith frowns at you.  "Don't distract the spellcaster," he
-hissed.  It was possible, you knew, to lose a spell if you were hit
+hisses.  It was possible, you knew, to lose a spell if you were hit
 while you were casting it; that was one of the reasons why squires in
 your order didn't learn to cast spells until they were seniors, by which
 time they'd either developed defensive skills or gone home in disgrace.
@@ -267,9 +276,9 @@ do ... whatever it's she's doing, nearly to her own death, to judge by
 appearances.  She swoons in fact repairing the last gate; it's clear, from
 having seen her repair nine gates, that the gates of power are the hardest
 for her and the gates of stone the easiest; you would have expected the gates
-of life to bethe easiest, for a healer, but perhaps that's what she does than
+of life to be the easiest, for a healer, but perhaps that's what she does than
 who she is, really.  You almost form an uncomfortable question about your
-parents, but decided better of it.
+parents, but decide better of it.
 
 You glance -- again -- at Badsmith, and this time he relents.  You pick up
 the fallen spellcaster -- feel the heat of her through your chainmail like
@@ -294,18 +303,18 @@ start sealing the gates.
 He mistakes your intention and signals a general advance.  "Anderson and
 company will seal the gates behind us and hold there" -- in the tunnel
 between the two sets of gates -- "until relieved."  An order oft given to
-sentries, and of no particular import when so, but grim when given to a
-garrison and desperate when given to a squad of novices under any
-circumstance.  Badsmith reads these thoughts in your face.  "The principal
-*is* on his way, and there are not enough bodies in this crypt to stop
-the Order in its full array, should it come to that.  But if we don't have
-to collapse both ramps..."
+sentries -- including you when you've had the duty -- and of no particular
+import when so, but grim when given to a garrison and desperate when given
+to a squad of novices under any circumstance.  Badsmith reads these thoughts
+in your face.  "The principal *is* on his way, and there are not enough
+bodies in this crypt to stop the Order in its full array, should it come to
+that.  But if we don't have to collapse both ramps..."
 
 He trails off, but you've heard the stories, retold from class to class in
 the barracks, and seen the shovels in the armory, terrible misshappen things,
 razor sharp on one side and coming to a maul on the other.  Even if no squire
 survived their relief... you shuddered.  There were deadlier fights, you've
-been told -- imagine fighting corpses ignited in a crematorium but animated
+been told -- imagine fighting corpses ignited in a crematorium but reanimated
 before they burned, the flames themselves the curse of undeath but spreading
 like any other fire -- but none more horrible.
 
@@ -318,10 +327,10 @@ that glowed and tunnels that did not end.
 The tunnel did, actually -- and of course -- end.  It opened into a bluish,
 or at least blue-lit, room with space for a dozen families to each cluster
 around a plinth.  It's a like the base of a column, except you use it hold
-up vases, usually; in Alandoor, of course, it's a place you can put the
+up vases, usually; in Alandoor, of course, it's a place you can put
 down and distribute the burden of the good earth.  It's traditional for the
-whole family to help carry it up the ramp, even if only one or two of the
-adult descendants actually go all the way into the catacombs to collect it.
+whole family to help carry the earth up the ramp, even if only one or two of
+the adultss actually go all the way into the catacombs to collect it.
 
 You were trying to remember the architecture word for the marble pieces on
 the stone floor because you didn't want to think too closely or look too
@@ -352,10 +361,10 @@ habit, and not that he thinks you're going to be an officer.
 
 You search the closet with perhaps more vigor than is warranted, and manage
 to avoid hearing anything unnecessarily disgusting as the more devout in
-your squad get the joy of de-de-desecrating the plinth.  It might seem like
+your squad get the joy of de-desecrating the plinth.  It might seem like
 a waste of time, but every corpse the crypt's sacred power forces back into
 slumber is another one you and yours don't have to fight.  Speaking of --
-you cross the room, keeping a resolute eye down the hallway -- and see a
+you cross the room, keeping a resolute eye down the hallway -- and see if a
 little water, fed in to the pot right at the rim to avoid touching the
 leaves, will perk the alarm plant up any.  You'd rather not hear the alarm,
 but surely strengthening a life here can only help.
