@@ -7,12 +7,13 @@ It's a rainy day in -- where will you be training?  Some small town,
 it seems.  We'll say Alandoor -- Alandoor, and although that does make
 it smell better, you've learned not to like the sound rains makes on
 your chain mail, because that means you're going to have dry, polish,
-and oil it again tonight.  You're wearing your armor and carrying your
-long sword in a sheath at your hip and your shield on your back becaus
-that's what squires at your school wear, that and brown boots -- your
-instructors like you too much to make you wear white boots -- and light
-gray pants and a light gray surcoat, on which you carefully stitched a
-yin-yang symbol, which I can see is already holy to you.
+and oil it again before you sleep.  You're wearing your armor and
+carrying your long sword in a sheath at your hip and your shield on
+your back because that's what squires at your school wear, that and
+brown boots -- your instructors like you too much to make you wear
+white boots -- and light gray pants and a light gray surcoat, on which
+you carefully stitched a yin-yang symbol, which I can see is already
+holy to you.
 
 You and the rest of the class are standing out in the rain because the
 healer, Evaroom, finally made it all the way around the county
@@ -32,7 +33,7 @@ past Garth's and forces Garth to jump out of the way.  Garth lands
 badly, slips in the mud, falls, and suddenly it's your turn to
 practice!  I'm not much of a fighter, so I can't tell what strengths
 or weaknesses you'll bring to the ring, but perhaps you're more of a pearl --
-growing slowly and evenly and in all directions.
+irritating, but growing slowly and evenly and in all directions.
 
 You and Ennish fight.  There's a lot of luck in a fight, so I can't tell
 you who wins.  It'll matter a lot to you at the time, but never after; then
@@ -42,11 +43,11 @@ the mud and sweat and steel.
 
 Before Instructor Badsmith can call the next combatant forward, a page
 sprints up to him.  The page is dressed like you, but wearing brown
-leather armore and carrying a short bow, instead.  The instructor, of course,
+leather armor and carrying a short bow, instead.  The instructor, of course,
 is in gleaming full plate; you are morally certain that it's enchanted to
 resist rain and rust and ruin right up until it's time for some poor squire
-to clean it.  I don't know what you were thinking, but if you don't want to
-clean his armor, too, you should stay away from those chickens.
+to clean it.  I don't know what you were thinking, but if you didn't want to
+clean his armor, you should've stayed away from those chickens.
 
 You're pretty sure Instructor Badsmith's first name isn't "sir," but everyone
 seems to pretend anyway.  "Sir!" the page pants.  "Knight-Commander Harris
@@ -69,7 +70,7 @@ I can tell you're looking forward to that, but I won't ruin the surprise by
 telling you what your favorite class will be.
 
 The squires had noticed a single skeleton, destroyed it, and -- you
-hoped the squire who made the decision wouldn't get in trouble for it --
+hope the squire who made the decision wouldn't get in trouble for it --
 followed its trail to make sure there weren't any more.  There must have
 been, if they had to call for help, but you can't make any sense of the
 story after the page entered the crypt.  Badsmith sends the page to
@@ -82,7 +83,7 @@ between thumping strides and rasping chain mail.  "Sir, yes, sir!"
 ## Chapter 02
 
 From a distance, the old crypt is just a fenced-off part of the grassy
-common east of town, where someone has spent some time cultivating blue
+common east of town, where people have spent time cultivating blue
 flowers, white flowers, and shade trees with evocative names, like
 weeping willow, crying crabapple, and moaning myrtle.  Which is
 technically a shrub.  Anyway, it's a nice place to picnic, because the
@@ -95,7 +96,7 @@ Up close, you can see both of the old crypt's ramps and the giant winch
 in front of each one.  Traditionally, the living and the dead enter the
 crypt going down the ramp to the right; the living then exit up the ramp
 the left.  Traditionally, the dead do not exit the crypt, but it seems
-like they day will not be a good day for traditions.  Each ramp is
+like this day will not be a good day for traditions.  Each ramp is
 shaded by its own set of arches; long, heavy chains run from the
 keystones to a mighty iron winch.  You had to polish and oil one winch
 once, and that was enough; if you'd been just a little bit slower
