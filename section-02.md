@@ -75,7 +75,7 @@ getting back to your room, you would've had to clean the chains, as
 well._  Ask the player what happened.
 
 _At the bottom of each ramp, where it turns into a tunnel, you can see three
-gates: a cold, hard wood, and obdurate stone, each cunningly crafted to permit
+gates: cold iron, hard wood, and obdurate stone, each cunningly crafted to permit
 inspection of the one beyond.  Further down the tunnel, you know, there will
 be three more gates, in the opposite order, marking the boundary between
 here-and-now and the there-and-when, past and future together.  Each of the
