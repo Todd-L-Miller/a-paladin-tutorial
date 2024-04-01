@@ -22,7 +22,7 @@ great hall of the abbey, if the barracks were on fire -- and stay out of the
 way.  This year, you and your whole class are marching to the catacombs east
 of town.  You listen intently, along with everyone else, to the
 page.  Knight-Commander Harris, the second-in-command of your school, had been
-taking the senior squires on a field march: knights had the responsibility to
+taking the senior squires on a field march: knights have the responsibility to
 lead if an officer wasn't available, so squires have to practice leadership._
 Ask the player what their favorite (school) class is.  _They'd noticed a
 single skeleton, destroyed it, and -- you hoped the squire who made the
